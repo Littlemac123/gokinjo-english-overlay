@@ -11,3 +11,9 @@ These are runtime/package checks, not full-route completion or linguistic approv
 Final Windows ZIP SHA-256: 0d59737cdc384b91bf20733da3ff8be257e90931237242c2ed3a3529235feecc
 
 The final Windows manifest also passed under embedded Windows Python in Wine: headered ZIP import, invalid-ROM rejection preserving the imported ROM and name profile, relaunch, duplicate-profile locking, and custom-core preservation after the opening boot.
+
+## Return-home branch follow-up
+
+The Lua runtime and Linux core were matched by SHA-256 to the published AppImage, then tested from a captured Sunday return-home checkpoint. Yes, No, and Cancel passed: complete English question/response, native choice display, held-A protection, and paired checkpoint restore. The question after loading was also visually inspected.
+
+After acknowledging the English, tested native-reader completion waits were 0–30 emulated frames. The Yes response took 22 frames; the earlier slow-reader experiment took 506. This does not establish every dialogue case or physical display pacing. This check used the released Linux runtime; it adds no Windows branch certification and is not a continuous whole-Sunday playthrough. Evidence is attached to the release as `Gokinjo-English-Test-2026-10-20-RETURN-STUDY-CHECK.json`.
