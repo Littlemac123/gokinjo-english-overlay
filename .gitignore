@@ -1,0 +1,15 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.sfc
+*.smc
+*.srm
+*.mss
+*.dll
+*.so
+*.exe
+*.AppImage
+*.o
+profiles/
+logs/
