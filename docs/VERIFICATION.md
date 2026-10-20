@@ -7,3 +7,7 @@ The exact AppImage passed package integrity checks, clean-profile ZIP/header imp
 The packaged Windows launcher ran using embedded Windows Python under Wine and prepared a private profile. The actual custom Windows core and packaged overlay reached the English opening from power-on at frame 3906, with native masking and batched glyph APIs checked. These checks do not certify native Windows 10/11, gamepads, audio, the ROM picker, or the Windows PowerShell bug-description dialog. Those remain tester tasks.
 
 These are runtime/package checks, not full-route completion or linguistic approval. Full Sunday, alternate branches, study interactions, every long-name consumer, and the remaining translation need work. Current user saves and the prior installed AppImage are preserved.
+
+Final Windows ZIP SHA-256: 0d59737cdc384b91bf20733da3ff8be257e90931237242c2ed3a3529235feecc
+
+The final Windows manifest also passed under embedded Windows Python in Wine: headered ZIP import, invalid-ROM rejection preserving the imported ROM and name profile, relaunch, duplicate-profile locking, and custom-core preservation after the opening boot.
